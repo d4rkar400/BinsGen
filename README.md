@@ -22,3 +22,9 @@ cd BinsGen
 ls
 
 bash requirement.sh
+
+chmod +x *
+
+ls
+
+python3 mundobins.py
